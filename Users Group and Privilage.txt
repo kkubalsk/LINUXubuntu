@@ -1,0 +1,4 @@
+Users Group and Privilage
+
+#dodanie użytkownika:
+sudo adduser nazwausera 
